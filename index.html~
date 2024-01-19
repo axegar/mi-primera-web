@@ -1,0 +1,69 @@
+<html>
+	<head>
+		<title> Axel -Mi primera web </title>
+		<link href="estilo1.css" type="text/css" rel="stylesheet">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Handlee&display=swap" rel="stylesheet">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Handlee&display=swap" rel="stylesheet">
+		<meta charset="utf-8">
+		<meta name="author" content="AXEL SERRANO GARCIA" >
+		<meta name="description" content="Una autobiografía del autor donde expone quien es, quien quiere ser, sus aficiones, webs y canciones favoritas y su horario">
+		<meta name="Keywords" content="humano, persona, juegos, animes, autobiografía, horario, opinion, axel, Axel, opinión">
+		<meta name="robots" content="index, follow" >
+		<link rel="shortcut icon" href="imágenes/persona andando.png" type="image/x-icon">
+	</head>
+	<body>
+		<h1> Mi primera web </h1>
+		<h2> ¿Quién soy yo? </h2>
+		<p> Soy un<strong> humano </strong> que hace cosas de <strong>humano</strong> llamado Axel por que los humanos tienen nom...
+		tenemos nombres que estudia en un instituto de <strong>humanos</strong> estando en 4º de la ESO y tiene
+		 aficiones de <strong>humano</strong> como jugar juegos <strong>humanos</strong> en vez de juegos <em>extraplanetarios</em> y
+		  necesita comer y dormir como un humano. <strong>Soy un humano.</strong>
+		</p>
+		<h2> ¿Quién quiero ser? </h2>
+		<p>Quiero ser un hum...una humilde persona perdón. 
+		¿Por qué iba a querer ser un humano si <strong>ya soy un humano</strong>?
+		 una persona que ayude al necesitado, ya sea humano, animal o <em>extraterres</em>...objetos. 
+		 ¿Por qué iba querer salvar extraterrestres si <strong>no existen</strong>?</p>
+		 <img src="imágenes/humildad.jpg" alt="yo siendo humilde">
+		 <img src="imágenes/persona.jpg" alt="persona normal y corriente que soy yo">
+		 <h2>Cosas que me gustan hacer</h2>
+		 	<ul>
+		 		<li>Comer humanos</li>
+		 		<li>Hacer chistes de que como humanos</li>
+		 		<li>Jugar videojuegos con amigos</li>
+		 		<li>Tener amigos humanos</li>
+		 		<li>Jugar videojuegos con amigos humanos</li>
+		 	</ul>
+		 <h2>Mis 5 webs favoritas</h2>
+		 	<ol>
+		 		<li><a href="https://kingdomhearts.fandom.com/wiki/Kingdom_Hearts_Wiki:Main_Page" >Kingdom hearts fandom</a></li>
+		 		<li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjD6-3WiO6CAxVwRqQEHYi7CrUQFnoECAUQAQ&url=https%3A%2F%2Fdiscord.com%2F&usg=AOvVaw3ZXH2nDvLvenMA-2E6NjiK&opi=89978449" >Discord</a></li>
+		 		<li><a href="https://www.chess.com/es" >Chees.com</a></li>
+		 		<li><a href="https://www.wikidex.net/wiki/WikiDex" >Wikidex</a></li>
+		 		<li><a href="https://www.youtube.com/" >Youtube</a></li>
+		 	</ol>
+		 <h2>Mis 5 canciones favoritas</h2>
+		 	<ul>
+		 		<li><iframe width="560" height="315" src="https://www.youtube.com/embed/tz82xbLvK_k?si=bZNV-PYHACKXQSO3" title="Hopes and dreams de Undertale" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></li>
+		 		<li><iframe width="560" height="315" src="https://www.youtube.com/embed/eKWnPGqqyrw?si=f7qfGkwBaCVizn2E" title="Sake de binks de One piece" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></li>
+		 		<li><iframe width="560" height="315" src="https://www.youtube.com/embed/7LMUhqbj-5E?si=8P9MhY9ieV9qqtsG" title="soundtrack de Kingdom hearts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></li>
+		 		<li><iframe width="560" height="315" src="https://www.youtube.com/embed/XOrygf_iLhw?si=FIHzJ7fjcCrW4gyh" title="14.3 billion years de outher wilds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></li>
+		 		<li><iframe width="560" height="315" src="https://www.youtube.com/embed/sdZNcBHO8DA?si=DtKK1CE2w4ukH5jJ" title="soundtrack Assasination classroom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></li>
+		 	</ul>
+		 <h2>Mi horario</h2>
+		 	<table summary="horario">
+		 		<tr><td>Hora</td><td>Lunes</td><td>Martes</td><td>Miércoles</td><td>Jueves</td><td>Viernes</td></tr>
+		 		<tr><td>15:00</td><td>Cuestionar la existencia</td><td>Aprender de mis errores y no cuestionar la existencia</td><td>Me noto raro</td><td>No me noto raro</td><td>Recuerdo todos los dias</td></tr>
+		 		<tr><td>16:00</td><td>Seguir cuestionandome la existencia</td><td>Darme cuenta de que recuerdo el lunes</td><td>Me doy cuenta de que tengo 57 huesos y 3 craneos destrozados</td><td>Soy un humano</td><td>Hablo con la entidad superior</td></tr>
+		 		<tr><td>17:00</td><td>Arrepentirme de cuestionar la existencia</td><td>Ir a cazar a la entidad suprema</td><td>Me doy cuenta de que tengo 3 craneos</td><td>Sigo siendo un humano</td><td>Realmente no soy un humano</td></tr>
+		 		<tr><td>18:00</td><td>Buscar el sentido de la vida</td><td>Pelear contra la entidad suprema</td><td>Me cuestiono si soy un humano</td><td>Todavia soy un humano</td><td>La entidad soy yo del futuro</td></tr>
+		 		<tr><td>19:00</td><td>Encontrar el sentido de la vida</td><td>Me destroza 57 huesos y 3 craneos</td><td>Descubro que no soy un humano</td><td>Pienso en cosas de humano</td><td>Voy a destruir la galaxia si recuerdo el sentido de la vida</td></tr>
+		 		<tr><td>20:00</td><td>Una entidad superior me borra los recuerdos</td><td>Me vuelve a borrar los recuerdos</td><td>Una entidad superior me borra los recuerdos</td><td>Hago esta página web</td><td>Acepto que me borre la memoria</td></tr>
+		 		<tr><td>21:00</td><td colspan="5">Dormir como si nada hubiera pasado</td>
+		 	</table>
+	</body>
+</html>
